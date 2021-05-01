@@ -19,3 +19,6 @@ python3 portscanner.py $HOST $ARG $PORT
   - For specific port you can use "-p" or "--portrange"  
 - $PORT
   - Use an specific number "8080" or range "50-500"
+
+## Credits
+Made for Hacker Technologies in Insper Computer Engineering Course
